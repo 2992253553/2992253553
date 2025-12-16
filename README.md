@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [![blog](https://img.shields.io/badge/博客-Privat5418)](https://xireiki.de5.net)
 [![Bilibili](https://img.shields.io/badge/妳是我の半途-pink.svg?logo=Bilibili)](https://space.bilibili.com/526821569)
 [![tiktok]( https://img.shields.io/badge/抖音-星冰樂༊-black.svg?logo=Tiktok)](https://www.douyin.com/user/MS4wLjABAAAAFVvBp9mE4LHyEGgvQRaD1FMpCQq7wAJ8kqSBC9jqpT0)
-[![酷安](https://img.shields.io/badge/酷安-萧笙墨露-3CA0FF?logo=android&logoColor=white)](https://www.coolapk.com/u/20080253)
+[![酷安](https://img.shields.io/badge/酷安-萧笙墨露-green?logo=android&logoColor=white)](https://www.coolapk.com/u/20080253)
 
 [![zhihu](https://img.shields.io/badge/知乎-阿叶Ayeez-blue.svg?logo=zhihu)](https://www.zhihu.com/people/summer.Ja)
 [![csdn](https://img.shields.io/badge/csdn-Privat5418-red?logo=csdn)](https://www.zhihu.com/people/weixin_47554682)
