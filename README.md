@@ -66,10 +66,10 @@ Here are some ideas to get you started:
 [![csdn](https://img.shields.io/badge/csdn-Privat5418-red?logo=csdn)](https://www.zhihu.com/people/weixin_47554682)
 [![xiaohongshu](https://img.shields.io/badge/小红书-妳是我の半途癈-red?logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/63c16665000000002702b0d1?xsec_token=YBc2ap2WAHtg6qaI8lv7Gx_wOIqPaXHFOR0u9bImeE4vY%3D&xsec_source=app_share&xhsshare=CopyLink&shareRedId=ODlFMTk7Oj42NzUyOTgwNjg6OTlGNUo6&apptime=1759241547&share_id=5f0332ee0000000001005114&share_channel=copy_link)
 
-<html>
+
             <!-- 我的技术栈 -->
 
-
+<html>
             <div class="tech-stack-section">
                 <h1 style="text-align: center;">我的技术栈</h1>
                 <div class="tech-icons-container">
