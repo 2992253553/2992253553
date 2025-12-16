@@ -66,6 +66,141 @@ Here are some ideas to get you started:
 [![csdn](https://img.shields.io/badge/csdn-Privat5418-red?logo=csdn)](https://www.zhihu.com/people/weixin_47554682)
 [![xiaohongshu](https://img.shields.io/badge/小红书-妳是我の半途癈-red?logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/63c16665000000002702b0d1?xsec_token=YBc2ap2WAHtg6qaI8lv7Gx_wOIqPaXHFOR0u9bImeE4vY%3D&xsec_source=app_share&xhsshare=CopyLink&shareRedId=ODlFMTk7Oj42NzUyOTgwNjg6OTlGNUo6&apptime=1759241547&share_id=5f0332ee0000000001005114&share_channel=copy_link)
 
+            <!-- 我的技术栈 -->
+
+
+            <div class="tech-stack-section">
+                <h1 style="text-align: center;">我的技术栈</h1>
+                <div class="tech-icons-container">
+                    <!-- 第一排图标 - 向右移动 -->
+
+                    <div class="tech-icons tech-icons-left">
+                        <!-- 第一轮图标 -->
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/java-original.svg" alt="Java" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/python-original.svg" alt="Python" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/html5-original.svg" alt="HTML5" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/css3-original.svg" alt="CSS3" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/javascript-original.svg" alt="JavaScript" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/cplusplus-original.svg" alt="C++" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/vuejs-original.svg" alt="Vue" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/git-original.svg" alt="Git" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/intellij-original.svg" alt="IntelliJ IDEA" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/vscode-original.svg" alt="VS Code" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/pycharm-original.svg" alt="PyCharm" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/astro-original.svg" alt="Astro" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/mysql-original.svg" alt="MySQL" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/maven-original.svg" alt="Maven" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/spring-original.svg" alt="Spring" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/uniapp.png" alt="Uniapp" />
+                        </div>
+
+                        <!-- 第二轮图标（重复第一轮以实现无缝循环） -->
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/java-original.svg" alt="Java" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/python-original.svg" alt="Python" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/html5-original.svg" alt="HTML5" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/css3-original.svg" alt="CSS3" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/javascript-original.svg" alt="JavaScript" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/cplusplus-original.svg" alt="C++" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/vuejs-original.svg" alt="Vue" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/git-original.svg" alt="Git" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/intellij-original.svg" alt="IntelliJ IDEA" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/vscode-original.svg" alt="VS Code" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/pycharm-original.svg" alt="PyCharm" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/astro-original.svg" alt="Astro" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/mysql-original.svg" alt="MySQL" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/maven-original.svg" alt="Maven" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/spring-original.svg" alt="Spring" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/uniapp.png" alt="Uniapp" />
+                        </div>
+                    </div>
+                    <!-- 第二排图标 - 向左移动 -->
+                    <div class="tech-icons tech-icons-right">
+                        <!-- 第一轮图标 -->
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/java-original.svg" alt="Java" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/python-original.svg" alt="Python" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/html5-original.svg" alt="HTML5" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/css3-original.svg" alt="CSS3" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/javascript-original.svg" alt="JavaScript" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/cplusplus-original.svg" alt="C++" />
+                        </div>
+                        <div class="tech-icon">
+                            <img src="./imgs/icon/vuejs-original.svg" alt="Vue" />
+                        </div>
+           
+
 ## 完全不完全统计......
 语言使用时间：
 
