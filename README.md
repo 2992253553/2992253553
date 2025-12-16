@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 
 ## 一些社交账号
 
-[![blog](https://img.shields.io/badge/博客-阿叶Ayeez-green)](https://xireiki.de5.net)
-[![Bilibili](https://img.shields.io/badge/阿叶Ayeez-pink.svg?logo=Bilibili)](https://space.bilibili.com/526821569)
-[![tiktok]( https://img.shields.io/badge/抖音-阿叶Ayeez-black.svg?logo=Tiktok)](https://www.douyin.com/user/MS4wLjABAAAAFVvBp9mE4LHyEGgvQRaD1FMpCQq7wAJ8kqSBC9jqpT0)
+[![blog](https://img.shields.io/badge/博客-Privat5418)](https://xireiki.de5.net)
+[![Bilibili](https://img.shields.io/badge/妳是我の半途-pink.svg?logo=Bilibili)](https://space.bilibili.com/526821569)
+[![tiktok]( https://img.shields.io/badge/抖音-星冰樂༊<span class="emoji emoji1f3ad"></span>-black.svg?logo=Tiktok)](https://www.douyin.com/user/MS4wLjABAAAAFVvBp9mE4LHyEGgvQRaD1FMpCQq7wAJ8kqSBC9jqpT0)
 
 [![zhihu](https://img.shields.io/badge/知乎-阿叶Ayeez-blue.svg?logo=zhihu)](https://www.zhihu.com/people/summer.Ja)
-[![csdn](https://img.shields.io/badge/csdn-阿叶Ayeez-red?logo=csdn)](https://www.zhihu.com/people/weixin_47554682)
-[![xiaohongshu](https://img.shields.io/badge/小红书-阿叶Ayeez-red?logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/63c16665000000002702b0d1?xsec_token=YBc2ap2WAHtg6qaI8lv7Gx_wOIqPaXHFOR0u9bImeE4vY%3D&xsec_source=app_share&xhsshare=CopyLink&shareRedId=ODlFMTk7Oj42NzUyOTgwNjg6OTlGNUo6&apptime=1759241547&share_id=5f0332ee0000000001005114&share_channel=copy_link)
+[![csdn](https://img.shields.io/badge/csdn-Privat5418-red?logo=csdn)](https://www.zhihu.com/people/weixin_47554682)
+[![xiaohongshu](https://img.shields.io/badge/小红书-妳是我の半途癈-red?logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/63c16665000000002702b0d1?xsec_token=YBc2ap2WAHtg6qaI8lv7Gx_wOIqPaXHFOR0u9bImeE4vY%3D&xsec_source=app_share&xhsshare=CopyLink&shareRedId=ODlFMTk7Oj42NzUyOTgwNjg6OTlGNUo6&apptime=1759241547&share_id=5f0332ee0000000001005114&share_channel=copy_link)
 
 ## 完全不完全统计......
 语言使用时间：
