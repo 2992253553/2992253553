@@ -79,7 +79,11 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/Ayeez757/Ayeez757/main/images/wakatime_weekly_language_stats.svg)
 
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Xiaokang2022&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokang2022&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<br/>
 
 项目花费时间：
 
