@@ -3,6 +3,10 @@
 
 <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/2992253553/2992253553/blob/main/quotations.md"> 每日一言</a></h4>
 
+<kbd>2025-12-17</kbd>
+
+- 大部分人心中带着某种优越感，自认为在某些方面比别人厉害、综合水平在平均线之上。要么比别人聪明，要么比别人有品位，要么比别人清醒——众人皆醉我独醒是一种普遍的天真。 
+
 <h1>Privat5418的GitHub页面</h1>
 <!--  skill badge 技能徽章 -->
 
