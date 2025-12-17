@@ -130,3 +130,5 @@ Pug               38 mins         █▒░░░░░░░░░░░░░�
 
 <!-- 贪吃蛇动图 -->
 <div align="center"><img src="https://raw.gitmirror.com/1321928757/action/output/github-contribution-grid-snake.svg?new=20251217" />
+
+<h2 align="center">我在做的项目</h2>
