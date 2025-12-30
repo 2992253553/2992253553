@@ -1,7 +1,7 @@
 # Hi  👋  -> [这是我的个人主页超链接，可以来这里认识我！](https://xireiki.de5.net/) <-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=100&vCenter=true&width=435&height=60&lines=%E6%88%91%E5%8F%AB+Privat5418)](https://git.io/typing-svg)
 
-<h4> <img src="https://github.com/2992253553/blob/main/images/cat-roll.gif" width="28" /> <a href="https://github.com/2992253553/blob/main/quotations.md"> 每日一言</a></h4>
+<h4> <img src="https://github.com/2992253553/2992253553/main/images/cat-roll.gif" width="28" /> <a href="https://github.com/2992253553/2992253553/main/quotations.md"> 每日一言</a></h4>
 
 <kbd>2025-12-17</kbd>
 
