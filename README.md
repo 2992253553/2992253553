@@ -1,12 +1,9 @@
-# Hi  👋  ->  [这是我的个人主页超链接，可以来这里认识我！](https://xireiki.de5.net/) <-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=100&vCenter=true&width=435&height=60&lines=%E6%88%91%E5%8F%AB+Privat5418)](https://git.io/typing-svg)
-
 <!--Start-->
-<h4> <img src="https://github.com/2992253553/2992253553/blob/main/images/cat-roll.gif" width="28" /> <a href="https://github.com/2992253553/2992253553/blob/main/quotations.md"> 每日一言</a></h4>
+ <h4> <img src="https://github.com/2992253553/2992253553/blob/main/images/cat-roll.gif" width="28" /> <a href="https://github.com/2992253553/2992253553/blob/main/quotations.md"> 每日一言</a></h4>
 
-<kbd>2025-12-17</kbd>
+<kbd>2025-12-31</kbd>
 
-- 大部分人心中带着某种优越感，自认为在某些方面比别人厉害、综合水平在平均线之上。要么比别人聪明，要么比别人有品位，要么比别人清醒——众人皆醉我独醒是一种普遍的天真。 
+- 有时候，我坐在电脑前，想写一些东西。面对着空白的文本编辑器，坐了一个小时，什么也写不出来，非常有挫折感。 后来，我想通了，提醒自己写不出来没关系，这是为好作品的发生创造时间和空间。
 
 <!--End-->
 # 很高兴认识你
@@ -162,3 +159,4 @@ Pug               38 mins         █▒░░░░░░░░░░░░░�
 }
 
 ```
+
