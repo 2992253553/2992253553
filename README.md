@@ -1,18 +1,14 @@
-<!--Start-->
- <h4> <img src="https://github.com/2992253553/2992253553/blob/main/images/cat-roll.gif" width="28" /> <a href="https://github.com/2992253553/2992253553/blob/main/quotations.md"> 每日一言</a></h4>
-
-<kbd>2025-12-31</kbd>
-
-- 以前听前辈说，中年人的社交圈子小的可怜。 我还不太理解。一个人活得越久认识的人应该越多啊。 现在年纪到了，果然如此。
-
-<!--End--> -> [这是我的个人主页超链接，可以来这里认识我！](https://xireiki.de5.net/) <-
+ [这是我的个人主页超链接，可以来这里认识我！](https://xireiki.de5.net/) <-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=100&vCenter=true&width=435&height=60&lines=%E6%88%91%E5%8F%AB+Privat5418)](https://git.io/typing-svg)
 
+<!--Start-->
 <h4> <img src="https://github.com/2992253553/2992253553/blob/main/images/cat-roll.gif" width="28" /> <a href="https://github.com/2992253553/2992253553/blob/main/quotations.md"> 每日一言</a></h4>
 
 <kbd>2025-12-17</kbd>
 
 - 大部分人心中带着某种优越感，自认为在某些方面比别人厉害、综合水平在平均线之上。要么比别人聪明，要么比别人有品位，要么比别人清醒——众人皆醉我独醒是一种普遍的天真。 
+
+<!--End-->
 
 <h1>Privat5418的GitHub页面</h1>
 <!--  skill badge 技能徽章 -->
