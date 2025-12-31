@@ -1,0 +1,26 @@
+name: Daily Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+        with:
+            token: ${{ secrets.PAT_FOR_PUSH }}
+      - name: Install
+        run: yarn
+      - name: Update
+        run: node daily.js
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "2992253553@qq.com"
+          git config --global user.name "2992253553"
+          git pull
+          git add -A
+          git commit -m "Auto Update Daily Quotations" || exit 0
+          git push
